@@ -1,16 +1,14 @@
-## Hi there 👋
+![Metrics](/github-metrics.svg)
 
-<!--
-**Momoria233/Momoria233** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## (Previously) Aliases
+**Momor1a**
+- Momoria233
+- Tsukimi13chiyo「月見13千代」
+- TsukiraMomoka
+- ReitaHanasaki
 
-Here are some ideas to get you started:
+> 「衆人のために薪を抱く者、風雪に凍え死なせることなかれ。」
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  <sup>~ Longing for an Azure Serenity ~</sup>
+</p>
